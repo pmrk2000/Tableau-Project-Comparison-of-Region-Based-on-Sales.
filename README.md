@@ -46,5 +46,8 @@ Average Sales per Order
 No. of Customers
 No. of Orders
 No. of Products in Sales
+
+
+Dashboard:
 ![Dashboard 1](https://user-images.githubusercontent.com/108510098/215339409-d55f778d-49fd-4a20-841d-5bb3140a632a.png)
 
