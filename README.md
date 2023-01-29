@@ -14,39 +14,38 @@ Datasets: Sample Superstore
 
 Steps to Perform: 
 
-Select Sample Superstore as Dataset  
+1. Select Sample Superstore as Dataset  
 
-Use Sample Superstore Dataset
+     1) Use Sample Superstore Dataset
 
-Select Data
+     2) Select Data
 
-Use Group by from Data Source Table on a Folder to create a folder to segregate the required data for Customer Name and Order ID inorder to organize the data thoroughly.
+     3) Use Group by from Data Source Table on a Folder to create a folder to segregate the required data for Customer Name and Order ID inorder to organize the data           thoroughly.
 
-Create a hierarchy called Location for the variable Country. 
+2. Create a hierarchy called Location for the variable Country. 
 
-Create two parameters: Primary Region and Secondary Region with all regions listed in them. Here, primary and secondary region are the two regions where the sales are being compared.
+3. Create two parameters: Primary Region and Secondary Region with all regions listed in them. Here, primary and secondary region are the two regions where the sales      are being compared.
 
-Create Parameters for Primary Region and Secondary Region
+    1) Create Parameters for Primary Region and Secondary Region
 
-Create a Calculated Field for both Primary Region and Secondary Region
+    2) Create a Calculated Field for both Primary Region and Secondary Region
 
-Create a First Order Date
+4. Create a First Order Date
 
-Create a Calculated Field and name it as the First Order Date
+    1) Create a Calculated Field and name it as the First Order Date
 
-Create a dashboard
+5. Create a dashboard
 
-Align all sheets in the dashboard
+    1) Align all sheets in the dashboard
 
-Partition the dashboard to display the below details of Primary Region and Secondary Region
+6. Partition the dashboard to display the below details of Primary Region and Secondary Region
 
-First Order Date
-Total Sales
-Average Sales per Order
-No. of Customers
-No. of Orders
-No. of Products in Sales
-
+   1) First Order Date
+   2) Total Sales
+   3) Average Sales per Order
+   4) No. of Customers
+   5) No. of Orders
+   6) No. of Products in Sales
 
 Dashboard:
 ![Dashboard 1](https://user-images.githubusercontent.com/108510098/215339409-d55f778d-49fd-4a20-841d-5bb3140a632a.png)
